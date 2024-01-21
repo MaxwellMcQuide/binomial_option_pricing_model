@@ -1,4 +1,4 @@
-# binomial_option_pricing_model
+# Binomial Option Pricing Model using Risk Neutral Probabilites
 
 A simple Binomial Option Pricing Model using the ipywidgets library I made to help study for an Investments Exam
 
